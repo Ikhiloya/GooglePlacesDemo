@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GooglePlacesSearch</string>
+
+    <!--TODO: add your api key -->
+    <string name="api_key">changeMe</string>
+    <string name="next">Next</string>
+
+</resources>
